@@ -1,0 +1,3 @@
+[submodule "deps/musl"]
+	path = deps/musl
+	url = https://github.com/wermut/musl
